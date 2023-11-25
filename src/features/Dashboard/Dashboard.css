@@ -1,0 +1,26 @@
+/* src/features/Dashboard/Dashboard.css */
+
+.dashboard-container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 8px;
+    background: rgba(20, 8, 8, 0.15);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    color: #007bff;
+  }
+  
+  .content-section {
+    margin-top: 20px;
+  }
+  
+  .content-section p {
+    font-size: 16px;
+    color: #fff;
+  }
+  

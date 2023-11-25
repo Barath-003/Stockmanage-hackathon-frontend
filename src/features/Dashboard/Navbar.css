@@ -1,0 +1,21 @@
+
+.navbar {
+  background: rgba(26, 4, 4, 0.15);
+  backdrop-filter: blur(10px);
+  padding: 10px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  display: flex;
+  justify-content: space-around;
+}
+
+.navbar a {
+  color: #100909;
+  text-decoration: none;
+  font-size: 16px;
+  padding: 8px;
+  transition: color 0.3s ease;
+}
+
+.navbar a:hover {
+  color: #007bff;
+}
